@@ -1,0 +1,9 @@
+state={
+	id=836
+	name="Hannover"
+	provinces={
+		1629 10630 10649 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

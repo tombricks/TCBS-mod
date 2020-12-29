@@ -1,0 +1,9 @@
+state={
+	id=829
+	name="Hessen"
+	provinces={
+		1120 2683 2952 7053 7073 8299 9369 10737 10743 10754 10764 10787 10797 10826 10853 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

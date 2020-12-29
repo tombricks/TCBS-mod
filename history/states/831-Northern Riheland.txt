@@ -1,0 +1,9 @@
+state={
+	id=831
+	name="Northern Rhineland"
+	provinces={
+		2465 5552 6447 6627 7895 8119 8224 9625 10688 10727 10734 10768 10776 10810 10817 10828 10846 10860 10924 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
