@@ -1,9 +1,0 @@
-state={
-	id=817
-	name="Mecklenburg"
-	provinces={
-		3779 4678 7621 7849 7932 8102 8367 8470 8486 10436 10454 10459 10480 10483 
-	}
-	manpower=0
-	buildings_max_level_factor=1.000
-}

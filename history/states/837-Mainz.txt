@@ -1,9 +1,0 @@
-state={
-	id=837
-	name="Mainz"
-	provinces={
-		5508 8025 10865 10926 
-	}
-	manpower=0
-	buildings_max_level_factor=1.000
-}

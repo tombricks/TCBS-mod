@@ -1,9 +1,0 @@
-state={
-	id=838
-	name="Munster"
-	provinces={
-		6618 10697 10708 8088
-	}
-	manpower=0
-	buildings_max_level_factor=1.000
-}

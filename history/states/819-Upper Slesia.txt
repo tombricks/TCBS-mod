@@ -1,9 +1,0 @@
-state={
-	id=819
-	name="Upper Silesia"
-	provinces={
-		2255 6366 9192 10675 10689 10715 10735 
-	}
-	manpower=0
-	buildings_max_level_factor=1.000
-}

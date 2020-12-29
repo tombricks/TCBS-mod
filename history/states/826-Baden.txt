@@ -1,9 +1,0 @@
-state={
-	id=826
-	name="Baden"
-	provinces={
-		4739 5167 8134 9185 9352 10954 10976 11015 11040 11068 
-	}
-	manpower=0
-	buildings_max_level_factor=1.000
-}

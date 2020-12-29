@@ -1,9 +1,0 @@
-state={
-	id=820
-	name="Saxony-Anhalt"
-	provinces={
-		1216 1413 4671 6253 7028 9004 9021 9283 9559 10581 10598 10631 10662 10712 10738 
-	}
-	manpower=0
-	buildings_max_level_factor=1.000
-}

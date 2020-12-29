@@ -1,9 +1,0 @@
-state={
-	id=832
-	name="Southern Rhineland"
-	provinces={
-		5760 6418 6608 9114 9174 9444 9864 10886 10889 10918 10972 10979 
-	}
-	manpower=0
-	buildings_max_level_factor=1.000
-}
