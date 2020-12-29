@@ -1,0 +1,15 @@
+state={
+	id=807
+	name="STATE_807"
+	provinces={
+		2759 6391 8779 9654 10565 10612 
+	}
+	manpower=3777777
+	buildings_max_level_factor=1.000
+history = {
+
+setowner = PRU
+add_core_of = PRU
+
+}
+}

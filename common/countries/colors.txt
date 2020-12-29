@@ -1,0 +1,11 @@
+#reload countrycolors
+
+
+TES = {
+	color = rgb { 150 150 150 }
+	color_ui = rgb { 150 150 150 }
+}
+PRU = {
+color = rgb { 31 31 31 }
+color_ui = rgb { 31 31 31 }
+}
