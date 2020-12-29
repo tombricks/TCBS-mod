@@ -1,0 +1,9 @@
+state={
+	id=814
+	name="Gdynia"
+	provinces={
+		5095 7590 9138 10462 10477 10500 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

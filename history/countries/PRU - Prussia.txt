@@ -24,9 +24,9 @@ set_popularities = {
 
 create_country_leader = {
 	name = "Blank"
-	picture = "Portrait_Blank.tga"
+	picture = "C:\Users\SepteR\Documents\Paradox Interactive\Hearts of Iron IV\mod\TCBS-mod\gfx\leaders\PRU\Portrait_Blank"
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = neutrality
 	traits = {
 		#
 	}

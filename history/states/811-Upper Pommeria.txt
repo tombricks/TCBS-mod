@@ -1,0 +1,9 @@
+state={
+	id=811
+	name="Pommeria"
+	provinces={
+		1014 4962 5058 8333 8666 9798 10430 10437 10442 10449 10488 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

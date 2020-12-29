@@ -1,0 +1,9 @@
+state={
+	id=813
+	name="Poznan"
+	provinces={
+		22 4772 5524 7032 8559 9612 9857 10567 10653 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

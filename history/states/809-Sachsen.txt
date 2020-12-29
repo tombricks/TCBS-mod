@@ -1,0 +1,22 @@
+state={
+	id=809
+	name="Sachsen"
+	provinces={
+		1101 1310 4282 5913 6561 8642 9749 9815 10698 10722 10751 10777 6561 10694 10668
+	}
+	manpower=31030135
+	buildings_max_level_factor=1.000
+	history={
+		owner = PRU
+		add_core_of = PRU
+		buildings = {
+			air_base = 0
+			anti_air_building = 0
+			arms_factory = 0
+			industrial_complex = 3
+                       
+
+		}
+
+	}
+}

@@ -1,0 +1,9 @@
+state={
+	id=821
+	name="Thuringia"
+	provinces={
+		1215 1217 3074 7762 8522 9573 10783 10798 10806 10837 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

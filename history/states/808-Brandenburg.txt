@@ -1,0 +1,23 @@
+state={
+	id=808
+	name="Brandenburg"
+	provinces={
+		2759 6391 9654 10565 10612 10624 10592 8106 10538 799 8602 4792
+	}
+	manpower=19382142
+	buildings_max_level_factor=1.000
+
+history={
+		owner = PRU
+		add_core_of = PRU
+		buildings = {
+			air_base = 0
+			anti_air_building = 0
+			arms_factory = 2
+			industrial_complex = 1
+                       
+
+		}
+
+	}
+}
