@@ -26,3 +26,7 @@
  TES:0 "Microwave Cooking for One"
  TES_DEF:0 "Microwave Cooking for One"
  TES_ADJ:0 "Microwave Cooking for One"
+
+ ROM:0 "Rome"
+ ROM_DEF:0 "Rome"
+ ROM_ADJ:0 "Roman"

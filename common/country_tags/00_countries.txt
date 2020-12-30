@@ -1,2 +1,3 @@
 
-PRU = "countries/Prussia.txt"
+PRU = "countries/eastern_european.txt"
+ROM = "countries/western_european.txt"
