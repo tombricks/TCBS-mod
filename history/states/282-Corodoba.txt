@@ -4,6 +4,23 @@ state={
 	provinces={
 		100 1626 3698 6744 12185 12195 12283 12293 
 	}
-	manpower=0
+	history={
+		owner = AND
+		victory_points = {
+			3544 25
+		}
+		victory_points = {
+			402 1
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+			anti_air_building = 0
+			air_base = 0
+		}
+		add_core_of = AND
+	}
+	manpower=944241
 	buildings_max_level_factor=1.000
 }
