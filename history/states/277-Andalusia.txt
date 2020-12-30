@@ -24,5 +24,6 @@ history={
 		add_core_of = AND
 	}
 	manpower=2173151
+state_category = city
 	buildings_max_level_factor=1.000
 }

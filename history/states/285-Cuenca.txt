@@ -4,6 +4,20 @@ state={
 	provinces={
 		3176 4664 5461 6681 11946 11990 
 	}
-	manpower=0
+	manpower=2092143
+state_category = city
 	buildings_max_level_factor=1.000
+history={
+		owner = MUR
+		
+		buildings = {
+			infrastructure = 3
+			arms_factory = 0
+			industrial_complex = 1
+			anti_air_building = 0
+			air_base = 0
+		}
+		add_core_of = MUR
+
+	}
 }

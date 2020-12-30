@@ -1,4 +1,8 @@
 #reload countrycolors
+MUR = {
+	color = rgb { 164 27 19 }
+	color_ui = rgb { 288 156 19 }
+}
 AND = {
 	color = rgb { 288 156 22 }
 	color_ui = rgb { 288 156 22 }

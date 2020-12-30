@@ -21,7 +21,9 @@ history={
 			anti_air_building = 0
 			air_base = 0
 		}
+state_category = city
 		add_core_of = AND
 	}
+
 	manpower=1375151
 }
