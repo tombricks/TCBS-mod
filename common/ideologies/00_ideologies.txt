@@ -1,0 +1,235 @@
+ideologies = {
+	
+	democratic = {
+	
+		types = {
+			subideology_democracy = { can_be_randomly_selected = yes }
+			
+			conservatism = { can_be_randomly_selected = no }
+		
+			liberalism = { can_be_randomly_selected = no }
+		
+			socialism = { can_be_randomly_selected = no }
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+			"FACTION_NAME_DEMOCRATIC_2"
+			"FACTION_NAME_DEMOCRATIC_3"
+			"FACTION_NAME_DEMOCRATIC_4"
+			"FACTION_NAME_DEMOCRATIC_5"
+			"FACTION_NAME_DEMOCRATIC_6"
+		}
+		
+		color = { 51 102 204 }
+		
+		rules = {
+			can_create_collaboration_government = no # Can create a collaboration government
+			can_declare_war_on_same_ideology = yes # Declare war on same ideology. Not required
+			can_force_government = yes # Can change ideology in peace deal. Required
+			can_send_volunteers = yes # Can send volunteers. Required
+			can_puppet = yes # Can puppet a nation at peace deal. Required
+			can_lower_tension = no # Lowers tension at peace deal. Not required
+			can_only_justify_war_on_threat_country = no # Can only justify on a nation that has generated world tension/threat. Not required
+			can_guarantee_other_ideologies = yes # Can guarantee nations with different ideologies. Not required
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25		# no major danger, remember this this the 40s!
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 1.00
+			join_faction_tension = 0.80
+			lend_lease_tension = 0.50
+			send_volunteers_tension = 0.50
+			guarantee_tension = 0.25
+			annex_cost_factor = 0.5
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 5.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 5
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 #plus 50% trade opinion
+		}
+		ai_democratic = yes # uses the democratic AI behaviour
+	}
+
+
+	communism = {
+		
+		types = {
+			subideology_collectivism = { can_be_randomly_selected = yes }
+		
+			marxism = { can_be_randomly_selected = no }
+			
+			leninism = { can_be_randomly_selected = no }
+			
+			stalinism = { can_be_randomly_selected = no }
+			
+			anti_revisionism = { can_be_randomly_selected = no }
+			
+			anarchist_communism = { can_be_randomly_selected = no }
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_COMMUNIST_1"
+			"FACTION_NAME_COMMUNIST_2"
+			"FACTION_NAME_COMMUNIST_3"
+			"FACTION_NAME_COMMUNIST_4"
+			"FACTION_NAME_COMMUNIST_5"
+		}
+		
+		color = { 153 0 0 }
+		
+		war_impact_on_world_tension = 0.75		#Commie less threatening
+		faction_impact_on_world_tension = 0.5
+		
+		ai_communist = yes # uses the commie AI behaviour
+		
+		rules = {
+			can_create_collaboration_government = no # Can create a collaboration government
+			can_declare_war_on_same_ideology = yes # Declare war on same ideology. Not required
+			can_force_government = yes # Can change ideology in peace deal. Required
+			can_send_volunteers = yes # Can send volunteers. Required
+			can_puppet = yes # Can puppet a nation at peace deal. Required
+			can_lower_tension = no # Lowers tension at peace deal. Not required
+			can_only_justify_war_on_threat_country = no # Can only justify on a nation that has generated world tension/threat. Not required
+			can_guarantee_other_ideologies = yes # Can guarantee nations with different ideologies. Not required
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			puppet_cost_factor = -0.3
+			civilian_intel_to_others = 10.0
+			army_intel_to_others = 7.5
+			navy_intel_to_others = 12.5
+			airforce_intel_to_others = 7.5
+			hidden_modifier = { join_faction_tension = -0.1 }
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+
+	fascism = {
+	
+		types = {
+			subideology_totalitarianism = { can_be_randomly_selected = yes }
+		
+			nazism = { can_be_randomly_selected = no }
+
+			gen_nazism = { can_be_randomly_selected = no }
+			
+			fascism_ideology = { can_be_randomly_selected = no }
+			
+			falangism = { can_be_randomly_selected = no }
+			
+			rexism = { can_be_randomly_selected = no }
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_FASCIST_1"
+			"FACTION_NAME_FASCIST_2"
+			"FACTION_NAME_FASCIST_3"
+			"FACTION_NAME_FASCIST_4"
+			"FACTION_NAME_FASCIST_5"
+		}
+		
+		color = { 50 50 50 }
+		
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+		
+		rules = {
+			can_create_collaboration_government = no # Can create a collaboration government
+			can_declare_war_on_same_ideology = yes # Declare war on same ideology. Not required
+			can_force_government = yes # Can change ideology in peace deal. Required
+			can_send_volunteers = yes # Can send volunteers. Required
+			can_puppet = yes # Can puppet a nation at peace deal. Required
+			can_lower_tension = no # Lowers tension at peace deal. Not required
+			can_only_justify_war_on_threat_country = no # Can only justify on a nation that has generated world tension/threat. Not required
+			can_guarantee_other_ideologies = yes # Can guarantee nations with different ideologies. Not required
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			hidden_modifier = { join_faction_tension = -0.1 }
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+	
+	neutrality = {
+	
+		types = {
+			subideology_autocracy = { can_be_randomly_selected = yes }
+		
+			despotism = { can_be_randomly_selected = no }
+			
+			oligarchism = { can_be_randomly_selected = no }
+
+			anarchism = { can_be_randomly_selected = no }
+			
+			moderatism = { can_be_randomly_selected = no }
+			
+			centrism = { can_be_randomly_selected = no }
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+		
+		color = { 153 51 153 }
+		
+		
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+		
+		rules = {
+			can_create_collaboration_government = no # Can create a collaboration government
+			can_declare_war_on_same_ideology = yes # Declare war on same ideology. Not required
+			can_force_government = yes # Can change ideology in peace deal. Required
+			can_send_volunteers = yes # Can send volunteers. Required
+			can_puppet = yes # Can puppet a nation at peace deal. Required
+			can_lower_tension = no # Lowers tension at peace deal. Not required
+			can_only_justify_war_on_threat_country = no # Can only justify on a nation that has generated world tension/threat. Not required
+			can_guarantee_other_ideologies = yes # Can guarantee nations with different ideologies. Not required
+		}
+		
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.4
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3	
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+		
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes # 
+	}
+}
