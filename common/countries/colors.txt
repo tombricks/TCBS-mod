@@ -1,4 +1,8 @@
 #reload countrycolors
+AND = {
+	color = rgb { 288 156 22 }
+	color_ui = rgb { 288 156 22 }
+}
 ROM = {
 	color = rgb { 84 36 36 }
 	color_ui = rgb { 94 46 46 }
