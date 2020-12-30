@@ -1,4 +1,4 @@
-﻿capital = 218
+﻿capital = 224
 
 oob = ""
 set_convoys = 5
@@ -10,21 +10,21 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = fascism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	neutrality = 100
+	fascism = 100
 }
 
 create_country_leader = {
-	name = "Augustus Giovanni"
+	name = "Grande Lucia di Messapia"
 	desc = "POLITICS_HAILE_SELASSIE_DESC"
-	picture = "Portrait_Rome_Augustus_Giovanni.tga"
+	picture = "Portrait_Messapia_Grande_Lucia.tga"
 	expire = "2030.1.1"
-	ideology = subideology_autocracy
+	ideology = subideology_totalitarianism
 	traits = {
 		#
 	}

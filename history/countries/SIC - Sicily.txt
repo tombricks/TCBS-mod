@@ -1,4 +1,4 @@
-﻿capital = 218
+﻿capital = 251
 
 oob = ""
 set_convoys = 5
@@ -20,9 +20,9 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Augustus Giovanni"
+	name = "Hanno V"
 	desc = "POLITICS_HAILE_SELASSIE_DESC"
-	picture = "Portrait_Rome_Augustus_Giovanni.tga"
+	picture = "gfx/leaders/CAR/Portrait_Carthage_Hanno_V.tga"
 	expire = "2030.1.1"
 	ideology = subideology_autocracy
 	traits = {

@@ -1,3 +1,7 @@
 
 PRU = "countries/eastern_european.txt"
 ROM = "countries/western_european.txt"
+MSP = "countries/western_european.txt"
+SIC = "countries/western_european.txt"
+BRT = "countries/western_european.txt"
+CAR = "countries/african.txt"

@@ -3,6 +3,22 @@ ROM = {
 	color = rgb { 84 36 36 }
 	color_ui = rgb { 94 46 46 }
 }
+MSP = {
+	color = rgb { 97 143 109 }
+	color_ui = rgb { 107 153 119 }
+}
+CAR = {
+	color = rgb { 153 204 255 }
+	color_ui = rgb { 163 214 255 }
+}
+SIC = {
+	color = rgb { 102 255 102 }
+	color_ui = rgb { 112 255 112 }
+}
+BRT = {
+	color = rgb { 195 149 155 }
+	color_ui = rgb { 254 194 202 }
+}
 TES = {
 	color = rgb { 150 150 150 }
 	color_ui = rgb { 150 150 150 }
