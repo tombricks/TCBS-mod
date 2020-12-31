@@ -25,3 +25,7 @@
 
  ROM_neutrality_party:0 "SPQR"
  ROM_neutrality_party_long:0 "Senātus Populusque Rōmānus"
+ MSP_fascism_party:0 "GCAM"
+ MSP_fascism_party_long:0 "Grand Council of All-Messapia"
+ CAR_neutrality_party:0 "Sufetes"
+ CAR_neutrality_party_long:0 "Sufetes"

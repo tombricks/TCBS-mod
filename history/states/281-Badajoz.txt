@@ -7,7 +7,7 @@ state={
 
 	buildings_max_level_factor=1.000
 history={
-		owner = 
+		owner = AND
 		victory_points = {
 			3544 25
 		}
@@ -21,9 +21,7 @@ history={
 			anti_air_building = 0
 			air_base = 0
 		}
-state_category = city
-		add_core_of = 
+		add_core_of = AND
 	}
-
 	manpower=1375151
 }

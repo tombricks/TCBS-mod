@@ -1,27 +1,9 @@
-
 state={
 	id=283
 	name="STATE_283"
 	provinces={
-		2039 2925 4028 6673 6935 11840 
+		2039 2925 4028 6673 6935 11840 11963 
 	}
-
-history={
-		owner = MAD
-add_core_of = MAD
-		
-		buildings = {
-			infrastructure = 7
-			arms_factory = 2
-			industrial_complex = 5
-			anti_air_building = 0
-			air_base = 0
-		}
-	
-
-
-}
-state_category = city
+	manpower=0
 	buildings_max_level_factor=1.000
-	manpower=4124259821
-	}
+}

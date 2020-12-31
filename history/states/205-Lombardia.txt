@@ -5,6 +5,10 @@ state={
 	provinces={
 		2959 5722 6228 6754 11259 11265 11295 11309 11314 11329 11340 11346 11347 11384 
 	}
-	manpower=0
+	history = {
+		owner = ITA
+		add_core_of = ITA
+	}
+	manpower=100000
 	buildings_max_level_factor=1.000
 }

@@ -1,52 +1,71 @@
 #reload countrycolors
-CAD = {
-color = rgb { 118 86 118 }
-color_ui = rgb { 118 86 118 }
-
-}
 AND = {
-color = rgb { 86 82 122 }
-color_ui = rgb { 86 82 122 }
-
+	color = rgb { 288 156 22 }
+	color_ui = rgb { 288 156 22 }
 }
-MAL = {
-color = rgb { 90 114 113 }
-color_ui = rgb { 90 114 113 }
-
+ROM = {
+	color = rgb { 84 36 36 }
+	color_ui = rgb { 94 46 46 }
 }
-MUR = {
-color = rgb { 109 122 85 }
-color_ui = rgb { 109 122 85 }
-
+MSP = {
+	color = rgb { 97 143 109 }
+	color_ui = rgb { 107 153 119 }
 }
-POR = {
-	color = rgb { 131 106 73 }
-	color_ui = rgb { 131 106 73 }
+CAR = {
+	color = rgb { 153 204 255 }
+	color_ui = rgb { 163 214 255 }
 }
-LEO = {
-	color = rgb { 153 91 51 }
-	color_ui = rgb { 153 91 51 }
+SIC = {
+	color = rgb { 102 255 102 }
+	color_ui = rgb { 112 255 112 }
 }
-BAS = {
-	color = rgb { 165 112 39 }
-	color_ui = rgb { 165 112 39 }
+BRT = {
+	color = rgb { 195 149 155 }
+	color_ui = rgb { 254 194 202 }
 }
-MAD = {
-	color = rgb { 181 157 23 }
-	color_ui = rgb { 181 157 23 }
+ITA = {
+	color = rgb { 0 102 0 }
+	color_ui = rgb { 10 112 10 }
 }
-CAS = {
-	color = rgb { 197 150 7 }
-	color_ui = rgb { 197 150 7 }
+IST = {
+	color = rgb { 255 255 204 }
+	color_ui = rgb { 245 245 255 }
 }
-ARA = {
-	color = rgb { 129 1 1 }
-	color_ui = rgb { 129 1 1 }
+VEN = {
+	color = rgb { 255 255 153 }
+	color_ui = rgb { 250 250 148 }
 }
-
-CAT = {
-	color = rgb { 194 79 10 }
-	color_ui = rgb { 194 79 10 }
+SKL = {
+	color = rgb { 102 51 0 }
+	color_ui = rgb { 112 61 10 }
+}
+SAX = {
+	color = rgb { 153 255 153 }
+	color_ui = rgb { 163 255 163 }
+}
+BOH = {
+	color = rgb { 230 230 230 }
+	color_ui = rgb { 240 240 240 }
+}
+BAV = {
+	color = rgb { 102 204 255 }
+	color_ui = rgb { 112 214 255 }
+}
+AUS = {
+	color = rgb { 255 153 204 }
+	color_ui = rgb { 255 153 204 }
+}
+SLA = {
+	color = rgb { 102 102 153 }
+	color_ui = rgb { 112 112 163 }
+}
+TES = {
+	color = rgb { 150 150 150 }
+	color_ui = rgb { 150 150 150 }
+}
+PRU = {
+	color = rgb { 31 31 31 }
+	color_ui = rgb { 31 31 31 }
 }
 D01 = {
 	color = rgb { 122 179 97 }

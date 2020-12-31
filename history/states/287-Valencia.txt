@@ -4,22 +4,6 @@ state={
 	provinces={
 		2613 2955 9701 11887 11991 
 	}
-	history={
-		owner = ARA
-			
-add_core_of = ARA
-		
-		buildings = {
-			infrastructure = 5
-			arms_factory = 1
-			industrial_complex = 3
-			anti_air_building = 0
-			air_base = 1
-		}
-
-	
-}
-	manpower=2175986899
+	manpower=0
 	buildings_max_level_factor=1.000
-state_category = city
 }
