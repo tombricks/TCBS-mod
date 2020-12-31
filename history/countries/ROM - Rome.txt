@@ -23,7 +23,7 @@ create_country_leader = {
 	name = "Augustus Giovanni"
 	desc = "POLITICS_HAILE_SELASSIE_DESC"
 	picture = "Portrait_Rome_Augustus_Giovanni.tga"
-	expire = "2030.1.1"
+	expire = "1965.1.1"
 	ideology = subideology_autocracy
 	traits = {
 		#

@@ -4,6 +4,21 @@ state={
 	provinces={
 		1015 6009 7090 7392 8061 9770 9888 11715 11739 
 	}
-	manpower=0
+	history={
+		owner = CAS
+add_core_of = CAS
+		
+		buildings = {
+			infrastructure = 6
+			arms_factory = 0
+			industrial_complex = 3
+			anti_air_building = 0
+			air_base = 0
+		}
+
+	
+}
+	manpower=1794148739
 	buildings_max_level_factor=1.000
+state_category = city
 }

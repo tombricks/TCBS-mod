@@ -5,10 +5,6 @@ state={
 	provinces={
 		3263 4820 5163 6861 7542 8526 11197 11226 11292 11296 
 	}
-	history = {
-		owner = VEN
-		add_core_of = VEN
-	}
-	manpower=100000
+	manpower=0
 	buildings_max_level_factor=1.000
 }

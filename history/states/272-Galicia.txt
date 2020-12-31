@@ -4,6 +4,21 @@ state={
 	provinces={
 		967 1861 2007 5829 6651 8115 9316 11568 11599 
 	}
-	manpower=0
-	buildings_max_level_factor=1.000
+	history={
+		owner = LEO
+add_core_of = LEO
+		
+		buildings = {
+			infrastructure = 5
+			arms_factory = 2
+			industrial_complex = 1
+			anti_air_building = 0
+			air_base = 0
+		}
+
+
+}
+	manpower=1999348739
+		buildings_max_level_factor=1.000
+state_category = city
 }
