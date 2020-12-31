@@ -1,0 +1,21 @@
+state={
+	id=411
+	name="STATE_411"
+	provinces={
+		5905 6459 9072 
+	}
+	history={
+		owner = BEJ
+	
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 3
+			anti_air_building = 0
+			air_base = 1
+		}
+		add_core_of = BEJ
+	}
+	manpower=2424853
+	buildings_max_level_factor=1.000
+}

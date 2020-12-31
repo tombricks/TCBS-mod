@@ -86,3 +86,48 @@
  SLA:0 "Slazburg"
  SLA_DEF:0 "Slazburg"
  SLA_ADJ:0 "Slazburg"
+ AND_ADJ:0 "Andalusia"
+ 
+ MUR:0 "Murcia"
+ MUR_DEF:0 "Murcia"
+ MUR_ADJ:0 "Murcia"
+ 
+ MAL:0 "Malaga"
+ MAL_DEF:0 "Malaga"
+ MAL_ADJ:0 "Malaga"
+ 
+ CAD:0 "Kingodm of Cadiz"
+ CAD_DEF:0 "Kingodm of Cadiz"
+ CAD_ADJ:0 "Kingodm of Cadiz"
+ 
+ BAS:0 "Empire of Basque"
+ BAS_DEF:0 "Empire of Basque"
+ BAS_ADJ:0 "Empire of Basque"
+ 
+ POR:0 "Porto"
+ POR_DEF:0 "Porto"
+ POR_ADJ:0 "Porto"
+ 
+ CAS:0 "Castile"
+ CAS_DEF:0 "Castile"
+ CAS_ADJ:0 "Castile"
+ 
+ MAD:0 "Madrid"
+ MAD_DEF:0 "Madrid"
+ MAD_ADJ:0 "Madrid"
+ 
+ LEO:0 "Kingdom of Leon"
+ LEO_DEF:0 "Kingdom of Leon"
+ LEO_ADJ:0 "Kingdom of Leon"
+ 
+ CAT:0 "Catalonia"
+ CAT_DEF:0 "Catalonia"
+ CAT_ADJ:0 "Catalonia"
+ 
+ ARA:0 "Aragon"
+ ARA_DEF:0 "Aragon"
+ ARA_ADJ:0 "Aragon"
+ 
+ BEJ:0 "Kingodom of Beja"
+ BEJ_DEF:0 "Kingodom of Beja"
+ BEJ_ADJ:0 "Kingodom of Beja"

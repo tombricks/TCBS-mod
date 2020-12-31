@@ -1,11 +1,7 @@
 #reload countrycolors
-AND = {
-	color = rgb { 288 156 22 }
-	color_ui = rgb { 288 156 22 }
-}
-ROM = {
-	color = rgb { 84 36 36 }
-	color_ui = rgb { 94 46 46 }
+CAD = {
+	color = rgb { 118 86 118 }
+	color_ui = rgb { 118 86 118 }
 }
 MSP = {
 	color = rgb { 97 143 109 }
@@ -66,6 +62,46 @@ TES = {
 PRU = {
 	color = rgb { 31 31 31 }
 	color_ui = rgb { 31 31 31 }
+AND = {
+	color = rgb { 86 82 122 }
+	color_ui = rgb { 86 82 122 }
+}
+MAL = {
+	color = rgb { 90 114 113 }
+	color_ui = rgb { 90 114 113 }
+}
+MUR = {
+	color = rgb { 109 122 85 }
+	color_ui = rgb { 109 122 85 }
+}
+POR = {
+	color = rgb { 131 106 73 }
+	color_ui = rgb { 131 106 73 }
+}
+LEO = {
+	color = rgb { 153 91 51 }
+	color_ui = rgb { 153 91 51 }
+}
+BAS = {
+	color = rgb { 165 112 39 }
+	color_ui = rgb { 165 112 39 }
+}
+MAD = {
+	color = rgb { 181 157 23 }
+	color_ui = rgb { 181 157 23 }
+}
+CAS = {
+	color = rgb { 197 150 7 }
+	color_ui = rgb { 197 150 7 }
+}
+ARA = {
+	color = rgb { 129 1 1 }
+	color_ui = rgb { 129 1 1 }
+}
+
+CAT = {
+	color = rgb { 194 79 10 }
+	color_ui = rgb { 194 79 10 }
 }
 D01 = {
 	color = rgb { 122 179 97 }
