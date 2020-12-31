@@ -5,6 +5,8 @@ state={
 		2325 5702 8225 
 	}
 history={
+		owner = BAS
+add_core_of = BAS
 		
 		buildings = {
 			infrastructure = 6

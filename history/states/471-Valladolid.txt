@@ -5,6 +5,8 @@ state={
 		4855 6966 8593 11802 
 	}
 	history={
+		owner = CAS
+add_core_of = CAS
 		
 		buildings = {
 			infrastructure = 3

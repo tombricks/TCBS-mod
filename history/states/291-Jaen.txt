@@ -5,6 +5,7 @@ state={
 		2373 8262 9117 12190 12234 12242 
 	}
 history={
+		owner = 
 		
 		buildings = {
 			infrastructure = 4
@@ -13,6 +14,7 @@ history={
 			anti_air_building = 1
 			air_base = 0
 		}
+		add_core_of = 
 	}
 	manpower=2149517
 state_category = city

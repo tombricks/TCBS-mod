@@ -5,6 +5,8 @@ state={
 		2459 12353 12388 12405 12433 
 	}
 history={
+		owner = CAD
+add_core_of = CAD
 		
 		buildings = {
 			infrastructure = 3

@@ -5,6 +5,7 @@ state={
 		4449 4580 7069 12205 12247 
 	}
 	history={
+		owner = MUR
 		
 		buildings = {
 			infrastructure = 3
@@ -13,6 +14,7 @@ state={
 			anti_air_building = 0
 			air_base = 0
 		}
+		add_core_of = MUR
 
 	}
 manpower = 1451534

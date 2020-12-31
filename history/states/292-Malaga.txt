@@ -6,6 +6,7 @@ state={
 		1145 1260 5708 12287 12389 
 	}
 history={
+		owner = MAL
 		
 		buildings = {
 			infrastructure = 4
@@ -14,6 +15,7 @@ history={
 			anti_air_building = 0
 			air_base = 0
 		}
+		add_core_of = MAL
 
 	}
 	manpower=2384414
