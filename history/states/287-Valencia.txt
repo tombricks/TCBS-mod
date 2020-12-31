@@ -5,9 +5,7 @@ state={
 		2613 2955 9701 11887 11991 
 	}
 	history={
-		owner = ARA
 			
-add_core_of = ARA
 		
 		buildings = {
 			infrastructure = 5

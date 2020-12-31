@@ -5,8 +5,6 @@ state={
 		4254 7674 11684 
 	}
 	history = {
-		owner = ROM
-		add_core_of = ROM
 		victory_points = {
 			11684 20
 		}

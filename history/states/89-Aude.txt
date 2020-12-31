@@ -6,8 +6,6 @@ state={
 		1505 5146 6975 9171 11588 11605 11647 
 	}
 history={
-		owner = CAT
-add_core_of = CAT
 		
 		buildings = {
 			infrastructure = 5
