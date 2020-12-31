@@ -30,18 +30,59 @@
  ROM:0 "Rome"
  ROM_DEF:0 "Rome"
  ROM_ADJ:0 "Roman"
+
  MSP:0 "Messapia"
  MSP_DEF:0 "Messapia"
  MSP_ADJ:0 "Messapian"
+
  CAR:0 "Carthage"
  CAR_DEF:0 "Carthage"
  CAR_ADJ:0 "Carthagian"
+
  SIC:0 "Sicily"
  SIC_DEF:0 "Sicily"
  SIC_ADJ:0 "Sicilian"
+
  BRT:0 "Bruttia"
  BRT_DEF:0 "Bruttia"
  BRT_ADJ:0 "Bruttian"
+
  AND:0 "Andalusia"
  AND_DEF:0 "Andalusia"
  AND_ADJ:0 "Andalusian"
+
+ ITA:0 "Italia"
+ ITA_DEF:0 "Italia"
+ ITA_ADJ:0 "Italic"
+
+ IST:0 "Istria"
+ IST_DEF:0 "Istria"
+ IST_ADJ:0 "Istrian"
+
+ VEN:0 "Venice"
+ VEN_DEF:0 "Venice"
+ VEN_ADJ:0 "Venician"
+
+ SKL:0 "Sklawi"
+ SKL_DEF:0 "Sklawi"
+ SKL_ADJ:0 "Sklawite"
+
+ SAX:0 "Saxony"
+ SAX_DEF:0 "Saxony"
+ SAX_ADJ:0 "Saxon"
+
+ BOH:0 "Bohemia"
+ BOH_DEF:0 "Bohemia"
+ BOH_ADJ:0 "Bohemian"
+
+ BAV:0 "Bavaria"
+ BAV_DEF:0 "Bavaria"
+ BAV_ADJ:0 "Bavarian"
+
+ AUS:0 "Austria"
+ AUS_DEF:0 "Austria"
+ AUS_ADJ:0 "Austrian"
+
+ SLA:0 "Slazburg"
+ SLA_DEF:0 "Slazburg"
+ SLA_ADJ:0 "Slazburg"

@@ -1,4 +1,4 @@
-﻿capital = 251
+﻿capital = 207
 
 oob = ""
 set_convoys = 5
@@ -20,9 +20,9 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Hanno V"
+	name = ""
 	desc = "POLITICS_HAILE_SELASSIE_DESC"
-	picture = "gfx/leaders/CAR/Portrait_Carthage_Hanno_V.tga"
+	picture = ""
 	expire = "2030.1.1"
 	ideology = subideology_autocracy
 	traits = {

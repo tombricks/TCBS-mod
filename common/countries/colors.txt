@@ -23,6 +23,42 @@ BRT = {
 	color = rgb { 195 149 155 }
 	color_ui = rgb { 254 194 202 }
 }
+ITA = {
+	color = rgb { 0 102 0 }
+	color_ui = rgb { 10 112 10 }
+}
+IST = {
+	color = rgb { 255 255 204 }
+	color_ui = rgb { 245 245 255 }
+}
+VEN = {
+	color = rgb { 255 255 153 }
+	color_ui = rgb { 250 250 148 }
+}
+SKL = {
+	color = rgb { 102 51 0 }
+	color_ui = rgb { 112 61 10 }
+}
+SAX = {
+	color = rgb { 153 255 153 }
+	color_ui = rgb { 163 255 163 }
+}
+BOH = {
+	color = rgb { 230 230 230 }
+	color_ui = rgb { 240 240 240 }
+}
+BAV = {
+	color = rgb { 102 204 255 }
+	color_ui = rgb { 112 214 255 }
+}
+AUS = {
+	color = rgb { 255 153 204 }
+	color_ui = rgb { 255 153 204 }
+}
+SLA = {
+	color = rgb { 102 102 153 }
+	color_ui = rgb { 112 112 163 }
+}
 TES = {
 	color = rgb { 150 150 150 }
 	color_ui = rgb { 150 150 150 }
