@@ -4,7 +4,7 @@ state={
 	provinces={
 		1548 2942 3735 12113 12155 
 	}history={
-		owner = MUR
+		owner = 
 		
 		buildings = {
 			infrastructure = 3
@@ -13,7 +13,7 @@ state={
 			anti_air_building = 0
 			air_base = 0
 		}
-		add_core_of = MUR
+		add_core_of = 
 
 	}
 manpower = 1151369

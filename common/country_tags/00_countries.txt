@@ -1,4 +1,7 @@
 MUR = "countries/western_european.txt"
+BAS = "countries/western_european.txt"
+CAD = "countries/western_european.txt"
+MAL = "countries/western_european.txt"
 PRU = "countries/eastern_european.txt"
 ROM = "countries/western_european.txt"
 AND = "countries/western_european.txt"

@@ -1,4 +1,16 @@
 #reload countrycolors
+BAS = {
+	color = rgb { 196 185 57 }
+	color_ui = rgb { 196  196  57 }
+}
+CAD = {
+	color = rgb { 109 225 81 }
+	color_ui = rgb { 109 225 81 }
+}
+MAL = {
+	color = rgb { 135 132 124 }
+	color_ui = rgb { 135 132 124 }
+}
 MUR = {
 	color = rgb { 164 27 19 }
 	color_ui = rgb { 288 156 19 }
