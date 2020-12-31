@@ -4,10 +4,6 @@ state={
 	provinces={
 		147 1036 1209 11262 11310 11315 11318 11344 11371 
 	}
-	history = {
-		owner = ITA
-		add_core_of = ITA
-	}
-	manpower=100000
+	manpower=0
 	buildings_max_level_factor=1.000
 }

@@ -3,7 +3,20 @@ state={
 	name="STATE_290"
 	provinces={
 		1548 2942 3735 12113 12155 
+	}history={
+		owner = 
+		
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 1
+			anti_air_building = 0
+			air_base = 0
+		}
+		add_core_of = 
+
 	}
-	manpower=0
+manpower = 1151369
 	buildings_max_level_factor=1.000
+state_category = city
 }
