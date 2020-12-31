@@ -1,22 +1,25 @@
+
 state={
 	id=293
 	name="STATE_293"
-	provinces={
-		289 2180 5270 11979 12022 12074 
-	}
-history={
-		owner = 
-		
-		buildings = {
+
+	history={
+		owner = buildings
+		= {
 			infrastructure = 5
 			arms_factory = 1
 			industrial_complex = 3
 			anti_air_building = 0
 			air_base = 0
+
 		}
 		add_core_of = 
 	}
-state_category = city
+
+	provinces={
+		289 2180 5270 11963 11979 12022 12074 
+	}
 	manpower=3892413
 	buildings_max_level_factor=1.000
+	state_category=city
 }
