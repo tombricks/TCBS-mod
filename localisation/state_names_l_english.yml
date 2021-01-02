@@ -990,7 +990,24 @@
  STATE_987:0 "Sierra"
  STATE_988:0 "Monrovia"
  STATE_989:0 "Harper"
- STATE_990:0 "Tabou"
+ STATE_990:0 "Tokio"
+ STATE_991:0 "Kimitsu"
+ STATE_992:0 "Kashima"
+ STATE_993:0 "Hitachinaka"
+ STATE_994:0 "Iwaki"
+ STATE_995:0 "Numazu"
+ STATE_996:0 "Otsuki"
+ STATE_997:0 "Fuefuki"
+ STATE_998:0 "Sano"
+ STATE_999:0 "Joetsu"
+ STATE_1000:0 "Saitama"
+ STATE_1001:0 "Kumagaya"
+ STATE_1002:0 "Sapporo"
+ STATE_1003:0 "Muroran"
+ STATE_1004:0 "Hakodate"
+ STATE_1005:0 "Matsumae"
+ STATE_1006:0 "Otaru"
+
 
 
 
