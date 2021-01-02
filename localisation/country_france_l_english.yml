@@ -1,0 +1,47 @@
+﻿l_english:
+ WFR:0 "West Frankish Empire"
+ WFR_DEF:0 "the West Frankish Empire"
+ WFR_ADJ:0 "West Frankish"
+
+ BRI:0 "Brittany"
+ BRI_DEF:0 "Brittany"
+ BRI_ADJ:0 "Brittany"
+ BRI_WFR_subject:0 "Duchy of Brittany"
+ BRI_WFR_subject_DEF:0 "the Duchy of Brittany"
+ BRI_WFR_subject_ADJ:0 "Brittany"
+
+ NOR:0 "Normandy"
+ NOR_DEF:0 "Normandy"
+ NOR_ADJ:0 "Normandy"
+ NOR_WFR_subject:0 "Duchy of Normandy"
+ NOR_WFR_subject_DEF:0 "the Duchy of Normandy"
+ NOR_WFR_subject_ADJ:0 "Normandy"
+
+ ORL:0 "Orleans"
+ ORL_DEF:0 "Orleans"
+ ORL_ADJ:0 "Orleans"
+ ORL_WFR_subject:0 "Orlean Kingdom"
+ ORL_WFR_subject_DEF:0 "the Orlean Kingdom"
+ ORL_WFR_subject_ADJ:0 "Orlean"
+
+ AQU:0 "Aquitaine"
+ AQU_DEF:0 "Aquitaine"
+ AQU_ADJ:0 "Aquitaine"
+ AQU_WFR_subject:0 "Kingdom of Aquitaine"
+ AQU_WFR_subject_DEF:0 "the Kingdom of Aquitaine"
+ AQU_WFR_subject_ADJ:0 "Aquitaine"
+
+ OCC:0 "Occitany"
+ OCC_DEF:0 "Occitany"
+ OCC_ADJ:0 "Occitany"
+
+ PRS:0 "Paris"
+ PRS_DEF:0 "Paris"
+ PRS_ADJ:0 "Paris"
+ PRS_communism:0 "Paris Collective"
+ PRS_communism_DEF:0 "the Paris Collective"
+ PRS_communism_ADJ:0 "Paris"
+
+ BRG:0 "Burgundy"
+ BRG_DEF:0 "Burgundy"
+ BRG_ADJ:0 "Burgundy"

@@ -1,0 +1,8 @@
+WFR	= "countries/western_european.txt"
+BRI	= "countries/western_european.txt"
+NOR	= "countries/western_european.txt"
+ORL	= "countries/western_european.txt"
+AQU	= "countries/western_european.txt"
+OCC	= "countries/western_european.txt"
+PRS	= "countries/western_european.txt"
+BRG	= "countries/western_european.txt"

@@ -5,8 +5,6 @@ state={
 		8416 
 	}
 history={
-		owner = CAD
-add_core_of = CAD
 		
 		buildings = {
 			infrastructure = 3

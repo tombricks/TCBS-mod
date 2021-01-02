@@ -1,4 +1,37 @@
 #reload countrycolors
+WFR = {
+	color = rgb { 0 121 255 }
+	color_ui = rgb { 0 111 245 }
+}
+BRI = {
+	color = rgb { 0 89 188 }
+	color_ui = rgb { 0 79 178 }
+}
+NOR = {
+	color = rgb { 0 70 147 }
+	color_ui = rgb { 0 60 137 }
+}
+ORL = {
+	color = rgb { 0 89 188 }
+	color_ui = rgb { 0 79 178 }
+}
+AQU = {
+	color = rgb { 0 67 142 }
+	color_ui = rgb { 0 57 132 }
+}
+OCC = {
+	color = rgb { 255 155 0 }
+	color_ui = rgb { 245 145 0 }
+}
+PRS = {
+	color = rgb { 93 0 0 }
+	color_ui = rgb { 83 0 0 }
+}
+BRG = {
+	color = rgb { 41 41 41 }
+	color_ui = rgb { 31 31 31 }
+}
+
 D01 = {
 	color = rgb { 122 179 97 }
 	color_ui = rgb { 159 233 126 }

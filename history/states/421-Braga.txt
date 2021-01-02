@@ -6,8 +6,6 @@ state={
 		3520 11759 
 	}
 	history={
-		owner = LEO
-add_core_of = LEO
 		
 		buildings = {
 			infrastructure = 5

@@ -4,6 +4,19 @@ state={
 	provinces={
 		3984 5852 7859 8344 8649 11353 11376 11392 11458 
 	}
-	manpower=0
+
+	history={ 
+		owner = AQU
+		add_core_of = AQU
+		buildings = {
+			infrastructure = 5
+			arms_factory = 2
+			industrial_complex = 2
+			anti_air_building = 0
+			air_base = 0
+		}
+	}
+	manpower=100000
+	state_category = city
 	buildings_max_level_factor=1.000
 }

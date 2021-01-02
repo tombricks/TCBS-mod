@@ -7,7 +7,6 @@ state={
 	}
 
 history={
-		owner = AND
 		victory_points = {
 			3544 25
 		}
@@ -21,7 +20,6 @@ history={
 			anti_air_building = 0
 			air_base = 1
 		}
-		add_core_of = AND
 	}
 	manpower=2173151
 state_category = city

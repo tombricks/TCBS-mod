@@ -4,6 +4,19 @@ state={
 	provinces={
 		4638 8055 8984 11060 11074 11081 
 	}
-	manpower=0
+
+	history={ 
+		owner = BRI
+		add_core_of = BRI
+		buildings = {
+			infrastructure = 5
+			arms_factory = 2
+			industrial_complex = 2
+			anti_air_building = 0
+			air_base = 0
+		}
+	}
+	manpower=100000
+	state_category = city
 	buildings_max_level_factor=1.000
 }

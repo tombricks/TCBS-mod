@@ -5,8 +5,6 @@ state={
 		7410 7608 8421 11600 11606 11629 
 	}
 	history = {
-		owner = ROM
-		add_core_of = ROM
 	}
 	manpower=100000
 	buildings_max_level_factor=1.000

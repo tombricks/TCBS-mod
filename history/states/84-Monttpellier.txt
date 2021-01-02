@@ -5,6 +5,19 @@ state={
 	provinces={
 		5427 6171 7696 7995 9153 11460 11481 11537 11563 
 	}
-	manpower=0
+
+	history={ 
+		owner = OCC
+		add_core_of = OCC
+		buildings = {
+			infrastructure = 5
+			arms_factory = 2
+			industrial_complex = 2
+			anti_air_building = 0
+			air_base = 0
+		}
+	}
+	manpower=100000
+	state_category = city
 	buildings_max_level_factor=1.000
 }
