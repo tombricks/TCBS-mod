@@ -45,3 +45,15 @@
  BRG:0 "Burgundy"
  BRG_DEF:0 "Burgundy"
  BRG_ADJ:0 "Burgundy"
+
+ LOR:0 "Lorraine"
+ LOR_DEF:0 "Lorraine"
+ LOR_ADJ:0 "Lorraine"
+
+ CHA:0 "Champagne"
+ CHA_DEF:0 "Champagne"
+ CHA_ADJ:0 "Champagne"
+
+ CLS:0 "Calais"
+ CLS_DEF:0 "Calais"
+ CLS_ADJ:0 "Calais"

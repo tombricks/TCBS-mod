@@ -1,0 +1,7 @@
+SSX	= "countries/western_european.txt"
+DUM	= "countries/western_european.txt"
+EAN	= "countries/western_european.txt"
+ENG	= "countries/western_european.txt"
+WLS	= "countries/western_european.txt"
+GWY	= "countries/western_european.txt"
+NTU	= "countries/western_european.txt"

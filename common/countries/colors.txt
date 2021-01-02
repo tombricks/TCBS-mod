@@ -31,6 +31,54 @@ BRG = {
 	color = rgb { 41 41 41 }
 	color_ui = rgb { 31 31 31 }
 }
+LOR = {
+	color = rgb { 255 95 0 }
+	color_ui = rgb { 245 85 0 }
+}
+CHA = {
+	color = rgb { 15 135 8 }
+	color_ui = rgb { 5 125 0 }
+}
+WRH = {
+	color = rgb { 68 93 24 }
+	color_ui = rgb { 58 83 14 }
+}
+ORH = {
+	color = rgb { 255 139 139 }
+	color_ui = rgb { 245 129 129 }
+}
+CLS = {
+	color = rgb { 164 21 101 }
+	color_ui = rgb { 154 11 91	 }
+}
+SSX = {
+	color = rgb { 135 19 19 }
+	color_ui = rgb { 125 9 9 }
+}
+DUM = {
+	color = rgb { 162 43 43 }
+	color_ui = rgb { 152 33 33 }
+}
+EAN = {
+	color = rgb { 183 99 99 }
+	color_ui = rgb { 173 89 89 }
+}
+ENG = {
+	color = rgb { 167 13 3 }
+	color_ui = rgb { 157 3 0 }
+}
+WLS = {
+	color = rgb { 80 31 31 }
+	color_ui = rgb { 70 21 21 }
+}
+GWY = {
+	color = rgb { 141 112 22 }
+	color_ui = rgb { 131 102 12 }
+}
+NTU = {
+	color = rgb { 175 97 97 }
+	color_ui = rgb { 165 87 87 }
+}
 
 D01 = {
 	color = rgb { 122 179 97 }

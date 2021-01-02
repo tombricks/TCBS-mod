@@ -1,0 +1,30 @@
+﻿l_english:
+ SSX:0 "Sussex"
+ SSX_DEF:0 "Sussex"
+ SSX_ADJ:0 "Sussex"
+
+ DUM:0 "Dumnonia"
+ DUM_DEF:0 "Dumnonia"
+ DUM_ADJ:0 "Dumnonia"
+
+ EAN:0 "East Anglia"
+ EAN_DEF:0 "East Anglia"
+ EAN_ADJ:0 "East Anglia"
+
+ ENG:0 "England"
+ ENG_DEF:0 "England"
+ ENG_ADJ:0 "England"
+
+ WLS:0 "Wales"
+ WLS_DEF:0 "Wales"
+ WLS_ADJ:0 "Wales"
+
+ GWY:0 "Gwynedd"
+ GWY_DEF:0 "Gwynedd"
+ GWY_ADJ:0 "Gwynedd"
+
+ NTU:0 "Northumbria"
+ NTU_DEF:0 "Northumbria"
+ NTU_ADJ:0 "Northumbria"
+ 
+ ENG_faction:0 "Crown Convention"

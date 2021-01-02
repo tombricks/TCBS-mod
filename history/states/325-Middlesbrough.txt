@@ -5,6 +5,19 @@ state={
 	provinces={
 		6430 10378 10391 10398 
 	}
-	manpower=0
+
+	history={ 
+		owner = NTU
+		add_core_of = NTU
+		buildings = {
+			infrastructure = 5
+			arms_factory = 2
+			industrial_complex = 2
+			anti_air_building = 0
+			air_base = 0
+		}
+	}
+	manpower=100000
+	state_category = city
 	buildings_max_level_factor=1.000
 }

@@ -4,19 +4,21 @@ bookmarks = {
 		desc = "GATHERING_STORM_DESC"
 		date = 2000.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "TES"
+		default_country = "WFR"
 		default = yes
 		
-		"TES"={
-			history = "TES_GATHERING_STORM_DESC"
-			ideology = democratic
-			ideas = {
-				
-				
-			}
-			focuses = {
-			
-			}
+		"WFR"={
+			history = "WFR_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {}
+			focuses = {}
+		}
+		
+		"ENG"={
+			history = "WFR_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {}
+			focuses = {}
 		}
 		
 		"---"={

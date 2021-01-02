@@ -3,7 +3,7 @@ ideologies = {
 	democratic = {
 	
 		types = {
-			subideology_democracy = { can_be_randomly_selected = yes }
+			subideology_democratic = { can_be_randomly_selected = yes }
 			
 			conservatism = { can_be_randomly_selected = no }
 		
@@ -62,7 +62,7 @@ ideologies = {
 	communism = {
 		
 		types = {
-			subideology_collectivism = { can_be_randomly_selected = yes }
+			subideology_collectivist = { can_be_randomly_selected = yes }
 		
 			marxism = { can_be_randomly_selected = no }
 			
@@ -121,7 +121,7 @@ ideologies = {
 	fascism = {
 	
 		types = {
-			subideology_totalitarianism = { can_be_randomly_selected = yes }
+			subideology_totalitarian = { can_be_randomly_selected = yes }
 		
 			nazism = { can_be_randomly_selected = no }
 
@@ -175,7 +175,7 @@ ideologies = {
 	neutrality = {
 	
 		types = {
-			subideology_autocracy = { can_be_randomly_selected = yes }
+			subideology_autocratic = { can_be_randomly_selected = yes }
 		
 			despotism = { can_be_randomly_selected = no }
 			
