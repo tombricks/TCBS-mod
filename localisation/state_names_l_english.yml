@@ -1007,6 +1007,25 @@
  STATE_1004:0 "Hakodate"
  STATE_1005:0 "Matsumae"
  STATE_1006:0 "Otaru"
+ STATE_1007:0 "Wakkani"
+ STATE_1008:0 "Kitami"
+ STATE_1009:0 "Monbetsu"
+ STATE_1010:0 "Rumoi"
+ STATE_1011:0 "Abashir"
+ STATE_1012:0 "Nemuro"
+ STATE_1013:0 "Yubari"
+ STATE_1014:0 "Furano"
+ STATE_1015:0 "Tomakomai"
+ STATE_1016:0 "Taiki"
+ STATE_1017:0 "Urakawka"
+ STATE_1018:0 "Mutsu"
+ STATE_1019:0 "Misawa"
+ STATE_1020:0 "Hirosaki"
+ STATE_1021:0 "Odate"
+ STATE_1022:0 "Morioka"
+ STATE_1023:0 "Semboku"
+ STATE_1024:0 "kamaishi"
+
 
 
 
