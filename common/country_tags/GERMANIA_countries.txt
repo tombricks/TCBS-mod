@@ -1,5 +1,7 @@
 WRH	= "countries/western_european.txt"
 ORH	= "countries/western_european.txt"
+SRH	= "countries/western_european.txt"
 DTC	= "countries/western_european.txt"
 FLN	= "countries/western_european.txt"
 SCH	= "countries/western_european.txt"
+BAV	= "countries/western_european.txt"
