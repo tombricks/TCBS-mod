@@ -1,4 +1,4 @@
-capital = 84
+capital = 209
 oob = "GENERIC"
 
 set_research_slots = 3

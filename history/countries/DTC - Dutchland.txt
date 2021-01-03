@@ -1,4 +1,4 @@
-capital = 84
+capital = 48
 oob = "GENERIC"
 
 set_research_slots = 3
@@ -34,4 +34,9 @@ create_country_leader = {
 	expire = "2030.1.1"
 	ideology = subideology_autocratic
 	traits = {}
+}
+
+set_autonomy = {
+	target = FLN
+	autonomy_state = autonomy_puppet
 }

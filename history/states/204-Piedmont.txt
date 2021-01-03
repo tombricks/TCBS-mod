@@ -5,6 +5,19 @@ state={
 	provinces={
 		3168 4187 6516 6541 9217 11291 11328 11379 11393 
 	}
-	manpower=0
+
+	history={ 
+		owner = PIE
+		add_core_of = PIE
+		buildings = {
+			infrastructure = 5
+			arms_factory = 2
+			industrial_complex = 2
+			anti_air_building = 0
+			air_base = 0
+		}
+	}
+	manpower=100000
+	state_category = city
 	buildings_max_level_factor=1.000
 }

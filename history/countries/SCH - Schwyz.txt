@@ -1,4 +1,4 @@
-capital = 84
+capital = 174
 oob = "GENERIC"
 
 set_research_slots = 3
@@ -18,10 +18,10 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = neutrality
-	last_election = "2000.1.1"
+	ruling_party = democratic
+	last_election = "1998.5.8"
 	election_frequency = 36
-	elections_allowed = no
+	elections_allowed = yes
 }
 set_popularities = {
 	neutrality = 100
@@ -32,6 +32,6 @@ create_country_leader = {
 	desc = ""
 	picture = ""
 	expire = "2030.1.1"
-	ideology = subideology_autocratic
+	ideology = subideology_democratic
 	traits = {}
 }

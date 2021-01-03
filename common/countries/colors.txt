@@ -79,6 +79,22 @@ NTU = {
 	color = rgb { 175 97 97 }
 	color_ui = rgb { 165 87 87 }
 }
+DTC = {
+	color = rgb { 255 150 0 }
+	color_ui = rgb { 245 140 0 }
+}
+FLN = {
+	color = rgb { 183 107 0 }
+	color_ui = rgb { 173 97 0 }
+}
+SCH = {
+	color = rgb { 189 67 67 }
+	color_ui = rgb { 179 57 57 }
+}
+PIE = {
+	color = rgb { 91 192 96 }
+	color_ui = rgb { 81 182 86 }
+}
 
 D01 = {
 	color = rgb { 122 179 97 }

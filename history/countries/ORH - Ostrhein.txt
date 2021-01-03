@@ -1,5 +1,5 @@
 capital = 56
-oob = "ORH"
+oob = "GENERIC"
 
 set_research_slots = 3
 set_stability = 0.7

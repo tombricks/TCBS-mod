@@ -1,5 +1,5 @@
 capital = 308
-oob = "ENG"
+oob = "GENERIC"
 
 set_research_slots = 3
 set_stability = 0.7
@@ -38,11 +38,17 @@ create_country_leader = {
 
 create_faction = ENG_faction
 add_to_faction = ENG
+ENG = { set_country_flag = ENG_Crown_Convention_member }
 add_to_faction = WLS
+WLS = { set_country_flag = ENG_Crown_Convention_member }
 add_to_faction = NTU
+NTU = { set_country_flag = ENG_Crown_Convention_member }
 add_to_faction = SSX
+SSX = { set_country_flag = ENG_Crown_Convention_member }
 add_to_faction = DUM
+DUM = { set_country_flag = ENG_Crown_Convention_member }
 add_to_faction = EAN
+EAN = { set_country_flag = ENG_Crown_Convention_member }
 
 set_autonomy = {
 	target = WLS

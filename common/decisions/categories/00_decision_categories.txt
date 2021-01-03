@@ -1,0 +1,7 @@
+ENG_Crown_Convention = {
+	icon = generic_political_actions
+
+	allowed = {
+		has_country_flag = ENG_Crown_Convention_member 
+	}
+}

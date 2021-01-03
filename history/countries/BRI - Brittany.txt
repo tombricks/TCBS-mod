@@ -1,5 +1,5 @@
 capital = 63
-oob = "BRI"
+oob = "GENERIC"
 
 set_research_slots = 3
 set_stability = 0.7
