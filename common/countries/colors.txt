@@ -103,6 +103,18 @@ BAV = {
 	color = rgb { 56 83 238 }
 	color_ui = rgb { 46 73 228 }
 }
+ITC = {
+	color = rgb { 64 81 18 }
+	color_ui = rgb { 54 71 8 }
+}
+
+
+
+
+
+
+
+
 
 D01 = {
 	color = rgb { 122 179 97 }

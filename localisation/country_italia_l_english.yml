@@ -2,3 +2,10 @@
  PIE:0 "Piedmont"
  PIE_DEF:0 "Piedmont"
  PIE_ADJ:0 "Piedmont"
+
+ ITC:0 "North Italia"
+ ITC_DEF:0 "North Italia"
+ ITC_ADJ:0 "North Italia"
+ ITC_communism:0 "Congress of Italia"
+ ITC_communism_DEF:0 "the Congress of Italia"
+ ITC_communism_ADJ:0 "North Italia"

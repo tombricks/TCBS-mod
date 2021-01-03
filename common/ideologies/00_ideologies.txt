@@ -62,7 +62,9 @@ ideologies = {
 	communism = {
 		
 		types = {
-			subideology_collectivist = { can_be_randomly_selected = yes }
+			subideology_national_collectivist = { can_be_randomly_selected = yes }
+			subideology_autonomous_collectivist = { can_be_randomly_selected = yes }
+			subideology_democratic_collectivist = { can_be_randomly_selected = no }
 		
 			marxism = { can_be_randomly_selected = no }
 			
