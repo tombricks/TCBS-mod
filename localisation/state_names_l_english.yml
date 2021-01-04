@@ -1065,6 +1065,25 @@
  STATE_1062:0 "Hagi"
  STATE_1063:0 "Hofu"
  STATE_1064:0 "Shimonoseki"
+ STATE_1065:0 "Naruto"
+ STATE_1066:0 "Anan"
+ STATE_1067:0 "Mima"
+ STATE_1068:0 "Muroto"
+ STATE_1069:0 "Kanoji"
+ STATE_1070:0 "Sikoku"
+ STATE_1071:0 "Shimanto"
+ STATE_1072:0 "Ozu"
+ STATE_1073:0 "Kitakyushu"
+ STATE_1074:0 "Sasebo"
+ STATE_1075:0 "Usa"
+ STATE_1076:0 "Omuta"
+ STATE_1077:0 "Nobeoka"
+ STATE_1078:0 "Kanoya"
+ STATE_1079:0 "Ibusuki"
+ STATE_1080:0 "Nichaian"
+ STATE_1081:0 "Isa"
+ STATE_1082:0 "Teaketa"
+
 
 
 
