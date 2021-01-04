@@ -107,6 +107,10 @@ ITC = {
 	color = rgb { 64 81 18 }
 	color_ui = rgb { 54 71 8 }
 }
+ROM = {
+	color = rgb { 124 59 59 }
+	color_ui = rgb { 114 49 49 }
+}
 
 
 
