@@ -4,8 +4,19 @@ state={
 	provinces={
 		6827 7808 9713 11507 11578 11581 
 	}
-	history = {
+
+	history={ 
+		owner = ROM
+		add_core_of = ROM
+		buildings = {
+			infrastructure = 5
+			arms_factory = 2
+			industrial_complex = 2
+			anti_air_building = 0
+			air_base = 0
+		}
 	}
 	manpower=100000
+	state_category = city
 	buildings_max_level_factor=1.000
 }

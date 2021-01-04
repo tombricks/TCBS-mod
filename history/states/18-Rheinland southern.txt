@@ -5,6 +5,19 @@ state={
 	provinces={
 		2465 5508 6418 8025 9174 9444 9864 10860 10865 10886 10889 10918 10924 10926 10954 10972 
 	}
-	manpower=0
+
+	history={ 
+		owner = SRH
+		add_core_of = SRH
+		buildings = {
+			infrastructure = 5
+			arms_factory = 2
+			industrial_complex = 2
+			anti_air_building = 0
+			air_base = 0
+		}
+	}
+	manpower=100000
+	state_category = city
 	buildings_max_level_factor=1.000
 }

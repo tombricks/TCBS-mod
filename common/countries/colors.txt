@@ -47,6 +47,10 @@ ORH = {
 	color = rgb { 255 139 139 }
 	color_ui = rgb { 245 129 129 }
 }
+SRH = {
+	color = rgb { 156 141 98 }
+	color_ui = rgb { 136 131 88 }
+}
 CLS = {
 	color = rgb { 164 21 101 }
 	color_ui = rgb { 154 11 91	 }
@@ -79,6 +83,42 @@ NTU = {
 	color = rgb { 175 97 97 }
 	color_ui = rgb { 165 87 87 }
 }
+DTC = {
+	color = rgb { 255 150 0 }
+	color_ui = rgb { 245 140 0 }
+}
+FLN = {
+	color = rgb { 183 107 0 }
+	color_ui = rgb { 173 97 0 }
+}
+SCH = {
+	color = rgb { 189 67 67 }
+	color_ui = rgb { 179 57 57 }
+}
+PIE = {
+	color = rgb { 91 192 96 }
+	color_ui = rgb { 81 182 86 }
+}
+BAV = {
+	color = rgb { 56 83 238 }
+	color_ui = rgb { 46 73 228 }
+}
+ITC = {
+	color = rgb { 64 81 18 }
+	color_ui = rgb { 54 71 8 }
+}
+ROM = {
+	color = rgb { 124 59 59 }
+	color_ui = rgb { 114 49 49 }
+}
+
+
+
+
+
+
+
+
 
 D01 = {
 	color = rgb { 122 179 97 }

@@ -2,8 +2,21 @@ state={
 	id=206
 	name="STATE_206"
 	provinces={
-		147 1036 1209 11262 11310 11315 11318 11344 11371 
+		147 1036 1209 6861 11262 11310 11315 11318 11344 11371 
 	}
-	manpower=0
+
+	history={ 
+		owner = ITC
+		add_core_of = ITC
+		buildings = {
+			infrastructure = 5
+			arms_factory = 2
+			industrial_complex = 2
+			anti_air_building = 0
+			air_base = 0
+		}
+	}
+	manpower=100000
+	state_category = city
 	buildings_max_level_factor=1.000
 }

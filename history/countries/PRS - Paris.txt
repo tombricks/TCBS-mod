@@ -1,5 +1,5 @@
 capital = 28
-oob = "PRS"
+oob = "GENERIC"
 
 set_research_slots = 3
 set_stability = 0.7
@@ -32,6 +32,6 @@ create_country_leader = {
 	desc = ""
 	picture = ""
 	expire = "2030.1.1"
-	ideology = subideology_collectivist
+	ideology = subideology_autonomous_collectivist
 	traits = {}
 }

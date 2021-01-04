@@ -5,6 +5,19 @@ state={
 	provinces={
 		690 3138 4739 5167 6351 9185 10976 10979 10980 11015 11037 11051 
 	}
-	manpower=0
+
+	history={ 
+		owner = BAV
+		add_core_of = BAV
+		buildings = {
+			infrastructure = 5
+			arms_factory = 2
+			industrial_complex = 2
+			anti_air_building = 0
+			air_base = 0
+		}
+	}
+	manpower=100000
+	state_category = city
 	buildings_max_level_factor=1.000
 }
