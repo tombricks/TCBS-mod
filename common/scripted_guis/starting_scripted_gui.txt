@@ -1,0 +1,24 @@
+scripted_gui = {
+
+	starting_ui = {
+		context_type = player_context
+		window_name = "starting_ui_window"
+
+		visible = {
+			NOT = {
+				has_country_flag = starting_ui_closed
+			}
+		}
+
+		properties = {
+		}
+
+		effects = {
+			close_starting_ui_button_click = {
+				set_country_flag = starting_ui_closed
+			}
+		}
+	}
+	
+}
+
