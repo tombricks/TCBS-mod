@@ -1,0 +1,52 @@
+guiTypes = {
+	
+	containerWindowType = {
+		name = "starting_ui_window"
+		position = { x = 0 y = 0 }
+		size = { width = 543 height = 480 }
+		orientation = center
+		
+		moveable = yes
+		
+		background = {
+			name = "background"
+			spriteType = "GFX_tiled_window"
+		}
+		
+		buttonType = {
+			name = "starting_ui_header"
+			spriteType = "GFX_header_bg"
+			orientation = UPPER_LEFT
+			position = { x = 0 y = 0 }
+		}	
+
+		instantTextboxType = {
+			name = "starting_ui_title"
+			position = { x = 16 y = 0 }
+			textureFile = ""
+			font = "hoi_36header"
+			borderSize = {x = 0 y = 0}
+			text = "[this.getname]"
+			maxWidth = 400
+			maxHeight = 20
+			fixedsize = yes
+		}	
+		
+		buttonType = {
+			name = "close_starting_ui_button"
+			spriteType = "GFX_closebutton"
+			orientation = UPPER_LEFT
+			position = { x = 503 y = 2 }
+			shortcut = "RETURN"
+		}
+
+		instantTextboxType = {
+			name = "starting_ui_desc"
+			position = { x = 20 y = 40 }
+			font = "hoi_16mbs"
+			text = "[this.starting_ui_desc]"
+			maxWidth = 507
+			alwaystransparent = yes
+		}
+	}
+}
