@@ -2,21 +2,23 @@
 state={
 	id=271
 	name="STATE_271"
-	provinces={
-		2104 2471 3436 7402 11616 
-	}
+
 	history={
-		
 		buildings = {
 			infrastructure = 5
 			arms_factory = 3
 			industrial_complex = 1
 			anti_air_building = 0
 			air_base = 0
+
 		}
-	
-}
-manpower=2211118739
+
+	}
+
+	provinces={
+		2104 3436 7402 11616 
+	}
+	manpower=-2083848557
 	buildings_max_level_factor=1.000
-state_category = city
+	state_category=city
 }
