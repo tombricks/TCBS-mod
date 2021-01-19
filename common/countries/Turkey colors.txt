@@ -1,5 +1,5 @@
 #reload countrycolors
-WFR = {
+OTT = {
 	color = rgb { 0 121 255 }
 	color_ui = rgb { 0 111 245 }
 }

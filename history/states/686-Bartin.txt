@@ -4,6 +4,18 @@ state={
 	provinces={
 		2875 6548 7514 8291 
 	}
-	manpower=0
+	history={ 
+		owner = JAN
+		add_core_of = JAN
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 2
+			anti_air_building = 0
+			air_base = 0
+		}
+	}
+	manpower=1896705
+	state_category = city
 	buildings_max_level_factor=1.000
 }

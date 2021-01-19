@@ -1,8 +1,55 @@
 ﻿l_english:
+
  PIE:0 "Piedmont"
  PIE_DEF:0 "Piedmont"
  PIE_ADJ:0 "Piedmont"
 
+ JAN:0 "Jandards"
+ JAN:0 "Jandards"
+ JAN_ADJ:0 "Jandards"
+ 
+ KAR:0 "Karamandis"
+ KAR:0 "Karamandis"
+ KAR_ADJ:0 "Karamandis"
+
+ AHL:0 "Ahlat"
+ AHL:0 "Ahlat"
+ AHL_ADJ:0 "Ahlat"
+ 
+ GER:0 "Germiyan"
+ GER_DEF:0 "Germiyan"
+ GER_ADJ:0 "Germiyan"
+ 
+ FEOI:0 "Free Empiere Of Instabul"
+ FEOI_DEF:0 "Free Empiere Of Instabul"
+ FEOI_ADJ:0 "Free Empiere Of Instabul"
+ 
+ TEK:0 "Teke"
+ TEK_DEF:0 "Teke"
+ TEK_ADJ:0 "Teke"
+ 
+ ART:0 "Artuqids"
+ ART_DEF:0 "Artuqids"
+ ART_ADJ:0  "Artuqids"
+ 
+ MEH:0 "Mehmed"
+ MEH_DEF:0 "Mehmed"
+ MEH_ADJ:0  "Mehmed"
+ 
+ SAR:0 "Sarukhandjs"
+ SAR_DEF:0 "Sarukhandjs"
+ SAR_ADJ:0  "Sarukhandjs"
+ 
+ 
+ 
+ DUL:0 "Dulkadrids"
+ DUL_DEF:0 "Dulkadrids"
+ DUL_ADJ:0  "Dulkadrids"
+ 
+ ERE:0 "Dulkadrids"
+ ERE_DEF:0 "Dulkadrids"
+ ERE_ADJ:0  "Dulkadrids"
+ 
  ITC:0 "North Italia"
  ITC_DEF:0 "North Italia"
  ITC_ADJ:0 "North Italia"

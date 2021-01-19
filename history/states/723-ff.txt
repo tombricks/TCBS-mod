@@ -4,6 +4,18 @@ state={
 	provinces={
 		1633 9330 11948 11957 
 	}
-	manpower=0
+	history={ 
+		owner = AHL
+		add_core_of = AHL
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 1
+			anti_air_building = 0
+			air_base = 0
+		}
+	}
+		manpower=3125321
+	state_category = city
 	buildings_max_level_factor=1.000
 }

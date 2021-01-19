@@ -1,9 +1,26 @@
+
 state={
 	id=713
 	name="STATE_713"
-	provinces={
-		3248 12128 12164 12180 
+
+	history={
+		owner = ART
+		add_core_of = ART
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 1
+			anti_air_building = 0
+			air_base = 0
+
+		}
+
 	}
-	manpower=0
+
+	provinces={
+		3248 7175 12164 12180 
+	}
+	manpower=2341911
 	buildings_max_level_factor=1.000
+	state_category=city
 }

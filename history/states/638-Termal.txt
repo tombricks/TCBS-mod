@@ -1,9 +1,26 @@
+
 state={
 	id=638
 	name="STATE_638"
-	provinces={
-		5373 7070 
+
+	history={
+		owner = MEH
+		add_core_of = MEH
+		buildings = {
+			infrastructure = 3
+			arms_factory = 3
+			industrial_complex = 1
+			anti_air_building = 0
+			air_base = 0
+
+		}
+
 	}
-	manpower=0
+
+	provinces={
+		5373 7070 8939 
+	}
+	manpower=1046505
 	buildings_max_level_factor=1.000
+	state_category=city
 }

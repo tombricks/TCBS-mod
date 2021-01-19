@@ -4,6 +4,17 @@ state={
 	provinces={
 		6897 9403 15105 
 	}
-	manpower=0
+	history={ 
+		owner = SAR
+		add_core_of = SAR
+		buildings = {
+			infrastructure = 3
+			arms_factory = 3
+			industrial_complex = 2
+			anti_air_building = 0
+			air_base = 0
+		}
+	}
+	manpower=2848785
 	buildings_max_level_factor=1.000
 }

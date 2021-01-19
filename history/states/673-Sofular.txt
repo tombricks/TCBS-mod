@@ -5,6 +5,18 @@ state={
 	provinces={
 		8592 9266 12006 
 	}
-	manpower=0
+	history={ 
+		owner = KAR
+		add_core_of = KAR
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 1
+			anti_air_building = 0
+			air_base = 0
+		}
+	}
+	manpower=1948505
+	state_category = city
 	buildings_max_level_factor=1.000
 }

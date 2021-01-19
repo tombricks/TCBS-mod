@@ -4,6 +4,18 @@ state={
 	provinces={
 		3828 12215 12216 
 	}
-	manpower=0
+	history={ 
+		owner = ART
+		add_core_of = ART	
+		buildings = {
+			infrastructure = 3
+			arms_factory = 3
+			industrial_complex = 2
+			anti_air_building = 0
+			air_base = 0
+		}
+	}
+	manpower=1141511
+	state_category = city
 	buildings_max_level_factor=1.000
 }

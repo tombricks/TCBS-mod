@@ -1,9 +1,22 @@
+
 state={
 	id=712
 	name="STATE_712"
 	provinces={
-		1562 3656 3821 8332 12138 
+		1562 3656 3821 8332 12128 12138 
 	}
-	manpower=0
+	history={ 
+		owner = ERE
+		add_core_of = ERE
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 2
+			anti_air_building = 0
+			air_base = 0
+		}
+	}
+	manpower=1711401
+	state_category = city
 	buildings_max_level_factor=1.000
 }

@@ -1,4 +1,52 @@
 #reload countrycolors
+FEOI = {
+	color = rgb { 204 103 91 }
+	color_ui = rgb { 204 103 91 }
+}
+TEK = {
+	color = rgb { 204 103 91 }
+	color_ui = rgb { 204 103 91 }
+}
+GER = {
+	color = rgb { 204 103 91 }
+	color_ui = rgb { 204 103 91 }
+}
+SAR = {
+	color = rgb { 204 103 91 }
+	color_ui = rgb { 204 103 91 }
+}
+MEH = {
+	color = rgb { 204 103 91 }
+	color_ui = rgb { 204 103 91 }
+}
+KAR = {
+	color = rgb { 204 103 91 }
+	color_ui = rgb { 204 103 91 }
+}
+JAN = {
+	color = rgb { 204 103 91 }
+	color_ui = rgb { 204 103 91 }
+}
+ERE = {
+	color = rgb { 204 103 91 }
+	color_ui = rgb { 204 103 91 }
+}
+DUL = {
+	color = rgb { 204 103 91 }
+	color_ui = rgb { 204 103 91 }
+}
+ART = {
+	color = rgb { 204 103 91 }
+	color_ui = rgb { 204 103 91 }
+}
+AHL = {
+	color = rgb { 201 126 95 }
+	color_ui = rgb { 201 126 95 }
+}
+AHL = {
+	color = rgb { 201 126 95 }
+	color_ui = rgb { 201 126 95 }
+}
 WFR = {
 	color = rgb { 0 121 255 }
 	color_ui = rgb { 0 111 245 }

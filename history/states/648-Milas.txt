@@ -4,6 +4,18 @@ state={
 	provinces={
 		12327 12365 
 	}
-	manpower=0
+history={ 
+		owner = TEK
+		add_core_of = TEK
+		buildings = {
+			infrastructure = 4
+			arms_factory = 0
+			industrial_complex = 3
+			anti_air_building = 0
+			air_base = 0
+		}
+	}
+	manpower=3167505
+	state_category = city
 	buildings_max_level_factor=1.000
 }

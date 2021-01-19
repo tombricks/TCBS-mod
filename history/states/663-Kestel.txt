@@ -4,6 +4,18 @@ state={
 	provinces={
 		5264 8918 
 	}
-	manpower=0
+	history={ 
+		owner = GER
+		add_core_of = GER
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+			anti_air_building = 0
+			air_base = 0
+		}
+	}
+	manpower=2262215
+	state_category=city
 	buildings_max_level_factor=1.000
 }
